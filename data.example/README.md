@@ -19,10 +19,12 @@ This project uses the [GTZAN dataset](https://www.kaggle.com/datasets/andradaolt
 1. Download the dataset zip file from: [Kaggle](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
 
-2. Extract and move the folders to the data/ directory
-data/
+2. Extract and move the folders to the data/ directory:
+3. 
+`data/`
 
-3. After this step, your directory should look like:
+4. After this step, your directory should look like:
+```bash
 data/geners
     ├── blues/
     ├── classical/
@@ -34,4 +36,5 @@ data/geners
     ├── pop/
     ├── reggae/
     └── rock/
+```
 
