@@ -84,11 +84,13 @@ Follow instructions in `data.examples/README.md`
 
 # ⚡ Quick Start
 
-`git clone https://github.com/Heban-7/audio-classification.git
+```bash
+git clone https://github.com/Heban-7/audio-classification.git
 
 cd music-genre-classification
 
 pip install -r requirements.txt`
+```
 
 ---
 
