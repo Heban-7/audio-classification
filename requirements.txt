@@ -4,3 +4,5 @@ numpy
 seaborn 
 librosa
 scikit-learn
+torch
+torchvision
